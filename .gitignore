@@ -2,3 +2,5 @@
 db.sqlite3
 media/
 venv/
+usuarios/__pycache__/
+usuarios/migrations/
